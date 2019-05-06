@@ -10,5 +10,13 @@ when building React apps. It saves you from time-consuming setup and configurati
 one command and Create React App sets up the tools you need to start your React project.
 Here you will find all the necessary information about how to install cra on your computer
 If you have nodejs installed then you can use the following command
-from the folder directory of your projets tap : <p strong>create-react-app myproject</p>
+from the folder directory of your projets tap : create-react-app myproject 
 https://reactjs.org/docs/create-a-new-react-app.html
+3- After the project has succesfully installed you can install the missing dependencies
+  by using the following command.
+  npm install bootstrap@latest
+  if you have a specific name of version you can use @v v here is the number of the version
+  npm install @reach/router 
+  
+  
+  
