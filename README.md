@@ -15,8 +15,12 @@ https://reactjs.org/docs/create-a-new-react-app.html
 3- After the project has succesfully installed you can install the missing dependencies
   by using the following command.
   npm install bootstrap@latest
-  if you have a specific name of version you can use @v v here is the number of the version
+  if you have a specific name of version you can use @v , v here is the version number
   npm install @reach/router 
+  you can add as more dependency as you want depending on your project.
+  
+  After those tree steps you can change the inside component as you want you can also add authentication for user 
+  Happy Haking!!!
   
   
   
